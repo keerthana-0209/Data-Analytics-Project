@@ -60,4 +60,3 @@ The dataset contains restaurant information including:
 - Delivery ratings are generally slightly higher than dining ratings in some cities.
 
 ----
-
